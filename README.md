@@ -25,7 +25,7 @@ Music Streaming: Utilize a streaming service like Spotify's Web API or a similar
 
 
 
-![SingIn Using Spotify Id](SingIn.png)
+![SingIn Using Spotify Id](SignIn.png)
 
 
 ![List Page](list.png)
